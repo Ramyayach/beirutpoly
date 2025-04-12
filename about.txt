@@ -38,10 +38,3 @@ Example cards:
   - **Water Delivery Service**
   - **Gas Station Owner**
 
-## 🕹️ Gameplay Twists
-- **Black Market Deals:** Trade outside the rules if players agree.
-- **Electricity Timer:** Game pauses for "power cuts" unless you bought a generator.
-Example cards:
-- _"Your building ran out of diesel. Pay 500,000 L.L. to the generator guy."_
-- _"Protest blocks the road. Miss one turn."_
-- _"You used your cousin’s Wasta. Skip a fine."_
