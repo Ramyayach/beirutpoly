@@ -1,1 +1,43 @@
-This is the documentation about the beirutpoly
+# BeirutPoly 🎲🇱🇧
+
+**BeirutPoly** is a creative, localized twist on the classic Monopoly board game, set in the vibrant and chaotic heart of Beirut, Lebanon. This version captures the spirit, humor, and challenges of daily life in the Lebanese capital — from the bustling streets of Hamra to the luxurious corners of Downtown, and from the chaotic traffic jams to unexpected power cuts.
+
+## 🎯 Objective
+Just like Monopoly, the goal of BeirutPoly is to dominate the city through strategic property acquisition, smart investments, and navigating the unpredictable socio-economic landscape of Beirut.
+
+## 🏙️ Properties
+Replace traditional properties with iconic Beirut neighborhoods and landmarks, such as:
+- **Hamra Street**
+- **Gemmayzeh**
+- **Mar Mikhael**
+- **Achrafieh**
+- **Sodeco**
+- **Raouché (Pigeon Rocks)**
+- **Downtown Beirut**
+- **Zaitunay Bay**
+- **Bourj Hammoud**
+- **Corniche**
+
+## 💸 Currency
+Say goodbye to dollars and hello to **Lira**! Inflation-themed money adds a realistic and often satirical layer to the game.
+
+## 💥 Beirut-Style Chance Cards
+"Chance" and "Community Chest" are replaced with:
+- **"Wasta" Cards** – Get out of trouble thanks to your connections.
+- **"Crisis Cards"** – Deal with power outages, internet cuts, protests, or sudden gas shortages.
+
+Example cards:
+- _"Your building ran out of diesel. Pay 500,000 L.L. to the generator guy."_
+- _"Protest blocks the road. Miss one turn."_
+- _"You used your cousin’s Wasta. Skip a fine."_
+
+## 🛠️ Infrastructure Elements
+- Replace railroads with **Service Providers** like:
+  - **Generator Operator**
+  - **Internet Provider**
+  - **Water Delivery Service**
+  - **Gas Station Owner**
+
+## 🕹️ Gameplay Twists
+- **Black Market Deals:** Trade outside the rules if players agree.
+- **Electricity Timer:** Game pauses for "power cuts" unless you bought a generator.
